@@ -11,7 +11,7 @@ According to the [Google Machine Translation Team](http://googleresearch.blogspo
 
 This repo is derived from [Peter Novig's](http://norvig.com/ngrams/) compilation of the [1/3 million most frequent English words](http://norvig.com/ngrams/count_1w.txt). I limited this file to the 10,000 most common words, then removed the appended frequency counts by running this sed command in my text editor: 
 
-```sed 's/[0-9]*//g'
+  sed 's/[0-9]*//g'
 
 Usage
 -----
@@ -20,11 +20,11 @@ This repo is useful as a corpus for typing training programs. According to analy
 
 To use this list as a training corpus in [Amphetype](http://code.google.com/p/amphetype/), paste the contents into the "Lesson Generator" tab with the following settings:
 
-```Make **3** copies of the list
+  Make **3** copies of the list
 
-```Divide into sublists of size **3**
+  Divide into sublists of size **3**
 
-```Add to sources as **google-10000-english**
+  Add to sources as **google-10000-english**
 
 In the "Sources" tab, you should see **google-10000-english** available for training. Set WPM at 10 more than your current average, set accuracy to 95-98%, and you're set to train.
 
