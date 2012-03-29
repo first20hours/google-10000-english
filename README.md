@@ -26,6 +26,6 @@ To use this list as a training corpus in [Amphetype](http://code.google.com/p/am
 
     Add to sources as **google-10000-english**
 
-In the "Sources" tab, you should see **google-10000-english** available for training. Set WPM at 10 more than your current average, set accuracy to 95-98%, and you're set to train.
+In the "Sources" tab, you should see **google-10000-english** available for training. Set WPM at 10 more than your current average, set accuracy to 98%, and you're set to train.
 
 Enjoy!
