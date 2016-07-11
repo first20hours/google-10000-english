@@ -9,7 +9,7 @@ According to the [Google Machine Translation Team](http://googleresearch.blogspo
 >
 >We believe that the entire research community can benefit from access to such massive amounts of data. It will advance the state of the art, it will focus research in the promising direction of large-scale, data-driven approaches, and it will allow all research groups, no matter how large or small their computing resources, to play together. That's why we decided to share this enormous dataset with everyone. We processed 1,024,908,267,229 words of running text and are publishing the counts for all 1,176,470,663 five-word sequences that appear at least 40 times. There are 13,588,391 unique words, after discarding words that appear less than 200 times.
 
-This repo is derived from [Peter Novig's](http://norvig.com/ngrams/) compilation of the [1/3 million most frequent English words](http://norvig.com/ngrams/count_1w.txt). I limited this file to the 10,000 most common words, then removed the appended frequency counts by running this sed command in my text editor: 
+This repo is derived from [Peter Norvig's](http://norvig.com/ngrams/) compilation of the [1/3 million most frequent English words](http://norvig.com/ngrams/count_1w.txt). I limited this file to the 10,000 most common words, then removed the appended frequency counts by running this sed command in my text editor: 
 
     sed 's/[0-9]*//g'
 
