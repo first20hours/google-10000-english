@@ -13,6 +13,8 @@ This repo is derived from [Peter Norvig's](http://norvig.com/ngrams/) compilatio
 
     sed 's/[0-9]*//g'
 
+Special thanks to [koseki](https://github.com/koseki) for [de-duplicating the list](https://github.com/first20hours/google-10000-english/issues/6).
+
 Usage
 -----
 
