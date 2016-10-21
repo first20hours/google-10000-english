@@ -15,6 +15,28 @@ This repo is derived from [Peter Norvig's](http://norvig.com/ngrams/) compilatio
 
 Special thanks to [koseki](https://github.com/koseki) for [de-duplicating the list](https://github.com/first20hours/google-10000-english/issues/6).
 
+Swear-free lists
+-----
+
+There are two additional lists which are identical to the original 10,000 word list, but with swear words removed. These are ideal for generating URLs, temporary passwords, or other uses where swear words may not be desired.
+
+Swears were removed based on these lists:
+
+* [reimertz/curse-words](https://github.com/reimertz/curse-words)
+* [MauriceButler/badwords](https://github.com/MauriceButler/badwords)
+* [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
+
+Word length lists
+-----
+
+Three of the lists (all based on the US english list) are based on word length:
+
+* **Short**: 1-4 characters
+* **Medium**: 5-8 characters
+* **Long**: 9+ characters
+
+Each list retains the original list sorting (by frequency, decending).
+
 Usage
 -----
 
