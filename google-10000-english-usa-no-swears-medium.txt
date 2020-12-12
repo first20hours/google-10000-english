@@ -427,7 +427,6 @@ final
 adult
 tickets
 thing
-centre
 cheap
 finance
 minutes
@@ -2693,7 +2692,6 @@ grown
 polish
 lovely
 extras
-centres
 jerry
 clause
 smile
