@@ -5149,7 +5149,6 @@ slovak
 cakes
 mixer
 remind
-sbjct
 charming
 tooth
 annoying
