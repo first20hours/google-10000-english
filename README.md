@@ -1,3 +1,5 @@
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 About This Repo
 ===============
 
@@ -18,9 +20,7 @@ Special thanks to [koseki](https://github.com/koseki) for [de-duplicating the li
 Swear-free lists
 -----
 
-There are two additional lists which are identical to the original 10,000 word list, but with swear words removed. These are ideal for generating URLs, temporary passwords, or other uses where swear words may not be desired.
-
-Swears were removed based on these lists:
+There are two additional lists which are identical to the original 10,000 word list, but with swear words removed. Swear words were removed based on these lists:
 
 * [reimertz/curse-words](https://github.com/reimertz/curse-words)
 * [MauriceButler/badwords](https://github.com/MauriceButler/badwords)
